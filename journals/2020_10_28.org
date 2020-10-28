@@ -1,3 +1,4 @@
 #+TITLE: Oct 28th, 2020
 
-** 
+** Testing from online mobile while desktop is offline
+**
