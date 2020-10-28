@@ -1,4 +1,10 @@
 #+TITLE: Oct 28th, 2020
 
-** Testing from online mobile while desktop is offline
-**
+** New entry
+** ^^Logseq test^^
+*** Working offline
+multi-line
+entry
+**** ~Code~
+**** [[https://logseq.com/static/img/logo.png][image]]
+****
